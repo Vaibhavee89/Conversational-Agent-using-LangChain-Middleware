@@ -1,0 +1,17 @@
+# Virtual environment
+venv/
+
+# Streamlit
+.streamlit
+
+# Python
+__pycache__
+
+# Logs
+*.log
+
+# IDE
+.idea
+.vscode
+
+/.env
